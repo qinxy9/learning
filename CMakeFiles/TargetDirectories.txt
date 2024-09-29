@@ -1,0 +1,3 @@
+/home/qxy/project_qxy/learning/CMakeFiles/rebuild_cache.dir
+/home/qxy/project_qxy/learning/CMakeFiles/edit_cache.dir
+/home/qxy/project_qxy/learning/CMakeFiles/learning.dir
